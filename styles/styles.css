@@ -2,6 +2,8 @@
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
     padding: 0;
+    line-height: 35px;
+
    
    
 }
@@ -10,12 +12,12 @@
 {display:flex;
   justify-content: space-evenly;
   background-color: chartreuse;
+  line-height: 50px;
  
 }
 #Cabecalho h1
 {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  object-position:right;
-  background-color:gold;
+  background-color:goldenrod
   
   
 
@@ -29,7 +31,7 @@
 {
 display:flex;
 justify-content: space-evenly;
-background-color: rgb(12, 107, 136);
+background-color: rgb(12, 136, 49);
 height:auto
 
 }
@@ -38,6 +40,7 @@ height:auto
 {
 background-color: darksalmon;
 list-style: circle;
+
 }
 #projetos ul
 {display:flex;
