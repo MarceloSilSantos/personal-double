@@ -2,6 +2,8 @@
     font-family: Arial, Helvetica, sans-serif;
     list-style: none;
     padding: 0;
+    line-height: 35px;
+
    
    
 }
@@ -10,6 +12,7 @@
 {display:flex;
   justify-content: space-evenly;
   background-color: chartreuse;
+  line-height: 50px;
  
 }
 #Cabecalho h1
@@ -38,6 +41,7 @@ height:auto
 {
 background-color: darksalmon;
 list-style: circle;
+
 }
 #projetos ul
 {display:flex;
