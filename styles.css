@@ -1,0 +1,110 @@
+*{  margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding: 0;
+   
+   
+}
+
+#Cabecalho ul
+{display:flex;
+  justify-content: space-evenly;
+  background-color: chartreuse;
+ 
+}
+#Cabecalho h1
+{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  object-position:right;
+  background-color:gold;
+  
+  
+
+}
+#sociais-superior
+{background-color: rgba(0, 255, 55, 0.488);
+    height:100px;
+}
+
+#menu ul
+{
+display:flex;
+justify-content: space-evenly;
+background-color: rgb(12, 107, 136);
+height:auto
+
+}
+
+#Apresentação ul
+{
+background-color: darksalmon;
+list-style: circle;
+}
+#projetos ul
+{display:flex;
+  justify-content: space-evenly;
+
+}
+
+#main ul
+{
+margin: 10px;  
+display: flex;
+justify-content:space-around;
+background-color: rgb(212, 255, 0);}
+
+
+#footer ul
+{
+margin: 30px;
+display: flex;
+justify-content:space-around;
+background-color: aqua;}
+
+#footer2 ul
+{
+margin: 30px;
+display: flex;
+justify-content:space-around;
+background-color: rgb(0, 255, 153);}
+
+label,
+#text {
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+
+#text {
+  padding: 15px;
+  max-width: 100%;
+  line-height: 4.5;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px #999;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#footer3 ul
+{
+margin: 30px;
+display: flex;
+justify-content:space-around;
+background-color: rgb(255, 0, 68);}
+
+#habilidades{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style:circle;
+  padding: 0;
+
+}
+
+#experiencia ol
+{display:flex;
+  justify-content: space-evenly;
+}
+
+
